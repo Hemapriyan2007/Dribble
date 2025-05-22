@@ -1,5 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-# Reg No: 212224040232
+# Reg No: 212224040116
 ## Date:21-05-25
 
 ## AIM:
@@ -125,10 +125,10 @@ Publish the website in the LocalHost.
 
 
 ```
+output:
 
+#![alt text](<Screenshot 2025-05-22 083031.png>)# OUTPUT:
 
-## OUTPUT:
-![Screenshot 2025-05-21 221059](https://github.com/user-attachments/assets/126a1e46-e5aa-4a5a-8423-769955ec521d)
 
 
 
